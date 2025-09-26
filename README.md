@@ -15,9 +15,6 @@
 *   💻 **跨平台兼容**：基于 Python 开发，可在 Windows, macOS, Linux 等主流操作系统上无差别运行。
 *   🔄 **自动备份**：解码时会自动备份目标文件夹中已存在的旧文件，防止数据意外丢失。
 
-##  MIGRATING_FROM_BAT_FILES.md
-
-##  prerequisites
 ## 🚀 快速开始
 
 ### 1. 先决条件
